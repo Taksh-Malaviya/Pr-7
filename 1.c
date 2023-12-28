@@ -56,12 +56,12 @@ main(){
 	int a,b,c;
 		do{
 	printf("\n------------------\n");
-	printf("1. add\n");
-	printf("2. sub\n");
-	printf("3. div\n");
-	printf("4. multi\n");
-	printf("5. modulo\n");
-	printf("6. exit\n");
+	printf("Press 1 for. add\n");
+	printf("Press 2 for. sub\n");
+	printf("Press 3 for. div\n");
+	printf("Press 4 for . multi\n");
+	printf("Press 5 for. modulo\n");
+	printf("Press 6 for. exit\n");
 	printf("\n------------------\n");
 	printf("enter number : \n");
 	scanf("%d",&c);
